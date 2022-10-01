@@ -24,3 +24,29 @@ D:\C# projects (console and ASP.NET Core)\VapeShop\VapeShop\obj\Debug\net6.0\ref
 D:\C# projects (console and ASP.NET Core)\VapeShop\VapeShop\obj\Debug\net6.0\VapeShop.pdb
 D:\C# projects (console and ASP.NET Core)\VapeShop\VapeShop\obj\Debug\net6.0\VapeShop.genruntimeconfig.cache
 D:\C# projects (console and ASP.NET Core)\VapeShop\VapeShop\obj\Debug\net6.0\ref\VapeShop.dll
+C:\Users\Фарт\Desktop\VapeShop\VapeShop\VapeShop\obj\Debug\net6.0\VapeShop.dll
+C:\Users\Фарт\Desktop\VapeShop\VapeShop\VapeShop\obj\Debug\net6.0\refint\VapeShop.dll
+C:\Users\Фарт\Desktop\VapeShop\VapeShop\VapeShop\obj\Debug\net6.0\VapeShop.pdb
+C:\Users\Фарт\Desktop\VapeShop\VapeShop\VapeShop\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Фарт\Desktop\VapeShop\VapeShop\VapeShop\bin\Debug\net6.0\appsettings.json
+C:\Users\Фарт\Desktop\VapeShop\VapeShop\VapeShop\bin\Debug\net6.0\VapeShop.staticwebassets.runtime.json
+C:\Users\Фарт\Desktop\VapeShop\VapeShop\VapeShop\bin\Debug\net6.0\VapeShop.exe
+C:\Users\Фарт\Desktop\VapeShop\VapeShop\VapeShop\bin\Debug\net6.0\VapeShop.deps.json
+C:\Users\Фарт\Desktop\VapeShop\VapeShop\VapeShop\bin\Debug\net6.0\VapeShop.runtimeconfig.json
+C:\Users\Фарт\Desktop\VapeShop\VapeShop\VapeShop\bin\Debug\net6.0\VapeShop.dll
+C:\Users\Фарт\Desktop\VapeShop\VapeShop\VapeShop\bin\Debug\net6.0\VapeShop.pdb
+C:\Users\Фарт\Desktop\VapeShop\VapeShop\VapeShop\obj\Debug\net6.0\VapeShop.csproj.AssemblyReference.cache
+C:\Users\Фарт\Desktop\VapeShop\VapeShop\VapeShop\obj\Debug\net6.0\VapeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Фарт\Desktop\VapeShop\VapeShop\VapeShop\obj\Debug\net6.0\VapeShop.AssemblyInfoInputs.cache
+C:\Users\Фарт\Desktop\VapeShop\VapeShop\VapeShop\obj\Debug\net6.0\VapeShop.AssemblyInfo.cs
+C:\Users\Фарт\Desktop\VapeShop\VapeShop\VapeShop\obj\Debug\net6.0\VapeShop.csproj.CoreCompileInputs.cache
+C:\Users\Фарт\Desktop\VapeShop\VapeShop\VapeShop\obj\Debug\net6.0\VapeShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Фарт\Desktop\VapeShop\VapeShop\VapeShop\obj\Debug\net6.0\VapeShop.RazorAssemblyInfo.cache
+C:\Users\Фарт\Desktop\VapeShop\VapeShop\VapeShop\obj\Debug\net6.0\VapeShop.RazorAssemblyInfo.cs
+C:\Users\Фарт\Desktop\VapeShop\VapeShop\VapeShop\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Фарт\Desktop\VapeShop\VapeShop\VapeShop\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Фарт\Desktop\VapeShop\VapeShop\VapeShop\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Фарт\Desktop\VapeShop\VapeShop\VapeShop\obj\Debug\net6.0\scopedcss\bundle\VapeShop.styles.css
+C:\Users\Фарт\Desktop\VapeShop\VapeShop\VapeShop\obj\Debug\net6.0\scopedcss\projectbundle\VapeShop.bundle.scp.css
+C:\Users\Фарт\Desktop\VapeShop\VapeShop\VapeShop\obj\Debug\net6.0\VapeShop.genruntimeconfig.cache
+C:\Users\Фарт\Desktop\VapeShop\VapeShop\VapeShop\obj\Debug\net6.0\ref\VapeShop.dll
